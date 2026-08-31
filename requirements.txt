@@ -1,0 +1,5 @@
+# Add your project dependencies here. Examples:
+# flask==2.3.2
+# requests>=2.0
+
+# Replace or remove this file depending on your language (e.g., package.json for Node)
